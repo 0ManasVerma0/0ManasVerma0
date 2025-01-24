@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and tech enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+profile!;I+❤️+coding+and+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+profile!;I+%E2%9D%A4%EF%B8%8F+coding+and+learning+new+things!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -57,9 +57,4 @@
   <a href="mailto:manasverma1357@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
 
-### 🖼️ Random Dev Meme
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" alt="Meme" />
-</p>
