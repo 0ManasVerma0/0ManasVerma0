@@ -5,6 +5,9 @@
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW0zZTUyc3NiamJpNjVmbmoyeThxbmhmejAxencxOXhvdmVtNTY2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln20wyFXfZC6c/giphy.gif"  />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0ManasVerma0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 
 ---
