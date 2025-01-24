@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manas Verma</h1>
 <h3 align="center">A passionate developer and tech enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+profile!;I+%E2%9D%A4%EF%B8%8F+coding+and+learning+new+things!" alt="Typing SVG" />
-</p>
+<div align = "center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW0zZTUyc3NiamJpNjVmbmoyeThxbmhmejAxencxOXhvdmVtNTY2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln20wyFXfZC6c/giphy.gif"  />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0ManasVerma0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
@@ -38,12 +36,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ManasVerma0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-### 🐍 Snake Eating Contributions
-<p align="center">
-  <img src="https://github.com/0ManasVerma0/0ManasVerma0/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+
+
 
 ---
 
