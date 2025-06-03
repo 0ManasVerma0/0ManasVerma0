@@ -46,7 +46,6 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/manas-verma-9a9b38327" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/manasvermatxt" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://instagram.com/manasverma.jpg" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
